@@ -1,1 +1,7 @@
-init
+# Key Based Steganography Using Convolutions
+## [Published](https://link.springer.com/chapter/10.1007/978-981-19-9888-1_51): Springer Link - Advances in Information Communication Technology and Computing pp 617–625
+
+### [Cite as](https://link.springer.com/chapter/10.1007/978-981-19-9888-1_51#citeas)
+
+## Abstract
+In information security, one of the most predominant tasks is to safeguard crucial information from potential intruders. This information is supposed to be safe in password-guided vaults or secure cloud storage. However, with increasing cyberattacks, additional security layers to this vulnerable sector are never redundant. Focusing on image data, a confidential image can be embedded in some other random image to hide the asset but many naïve approaches to achieve this has been broken down. The approach presented in this report is focused to increase the complexity of the architecture of the existing models. The proposed model encrypts the confidential image with a key and hides it in another random image in such a way that is safe to send. With this, even if the manipulation is somehow identified, the processed image is expected to be robust enough to withstand reverse engineering methods. The model thus ensures utmost confidentiality. The retention rate is calculated in terms of SSIM value as 0.828. The average PSNR value is 70.495. The mean square error was 0.017. The reconstructed, noisy images can also be digitally premastered to refine the quality.
